@@ -1,0 +1,40 @@
+﻿  main.c
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(32): warning C4013: 'strlen' undefined; assuming extern returning int
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(33): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(44): warning C4013: 'insert_at_front' undefined; assuming extern returning int
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(19): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(31): warning C4477: 'fscanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(31): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(36): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(40): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(43): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(50): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(52): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(57): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(60): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(63): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(73): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(93): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+c:\users\faraz\downloads\github stuff\205assignment1\205assignment1\main.c(13): warning C4101: 'taxlist': unreferenced local variable
+  list.c
+  bst.c
+  Generating Code...
+  LINK : C:\Users\faraz\Downloads\github stuff\205assignment1\Debug\205assignment1.exe not found or not built by the last incremental link; performing full link
+  205assignment1.vcxproj -> C:\Users\faraz\Downloads\github stuff\205assignment1\Debug\205assignment1.exe
+  205assignment1.vcxproj -> C:\Users\faraz\Downloads\github stuff\205assignment1\Debug\205assignment1.pdb (Partial PDB)
